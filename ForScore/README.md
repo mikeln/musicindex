@@ -22,7 +22,7 @@ Currently All Indexes are for **C** books only.
 * Colorado Cookbook	- Colorado.csv
 * Firehouse Jazz Band  - FirehouseJazzBand.csv
 * Jazz LTD - JazzLTD.csv
-* New Digital Real Book - nrealbk1d.csv
+* New Digital Real Book (Sher) - nrealbk1d.csv
 * Real Book 1 v6 (Hal Leonard) - realbk1h.csv
 * Real Book 2 v6 (Hal Leonard) - realbk2h.csv
 * Real Book 3 v6 (Hal Leonard) - realbk3h.csv
@@ -32,7 +32,7 @@ Currently All Indexes are for **C** books only.
 
 ### Workflow ###
 
-You can load these indexes directly from here directly into your ForScore app by navigating with a web browser, on your device, to this location.  Then select the index you want.  When it opens, then select the **raw** button.  At this point your device should (iPad at least) offer to "open in ForScore".  Selecting that will load it into your ForScore App, and open the App.
+You can load these indexes directly from here into your ForScore app by navigating with a web browser, on your device, to this location.  Then select the index you want.  When it opens, then select the **raw** button.  At this point your device should (iPad at least) offer to "open in ForScore".  Selecting that will load it into your ForScore App, and open the App.
 
 If you are updating the index, you should delete all the previous bookmarks for a given book first.
 * Open the Book you want to Index
