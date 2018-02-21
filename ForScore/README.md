@@ -53,6 +53,9 @@ Now load the index
 * Adjust the **Page number offset** until the correct image appears for the Title listed.
 * Check a few other pages via the page arrows on the bottom of the page.  The image should match the title.
 
+### Notes ###
+
+* The commonly availble pdf for **557 Standards** is missing 10+ pages from the end of the book.  The index have the songs marked as "missing" in the title.
 
 
 
