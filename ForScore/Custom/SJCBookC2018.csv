@@ -1,3 +1,4 @@
+# TITLE, TAG(GROUP), START, END, LABEL, KEY
 Ain't Misbehavin',sjc,1,1,Vocal,Ab
 As Time Goes By,sjc,2,2,Vocal,Ab
 Ballad For Trane,sjc,3,3,Feature,Eb
@@ -36,8 +37,8 @@ Just Squeeze Me,sjc,60,60,Bass,F
 Killer Joe,sjc,61,61,Band,C
 Let It Snow! Let It Snow! Let It Snow!,sjc,62,62,Band,F
 Like Someone In Love,sjc,63,63,Band,F
-Line For Lyons,sjc,65,66,Horns,G
-Line For Lyons,sjc,67,68,Horns,Bb
+Line For Lyons,sjc,65,66,Band,G
+Line For Lyons,sjc,67,68,Band,Bb
 Lullaby Of Birdland,sjc,69,70,Vocal,Cm
 My Favorite Things,sjc,71,71,Vocal,Dm
 My One An Only Love,sjc,72,72,Bass,C
