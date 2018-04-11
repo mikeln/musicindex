@@ -20,6 +20,7 @@ Currently All Indexes are for **C** books only.
 
 * 557 Standards	- 556Standards.csv
 * Colorado Cookbook	- Colorado.csv
+* Digital Standards Songbook - DigitalStandardsSongbookC.csv
 * Firehouse Jazz Band  - FirehouseJazzBand.csv
 * Jazz LTD - JazzLTD.csv
 * New Digital Real Book (Sher) - nrealbk1d.csv
