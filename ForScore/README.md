@@ -13,6 +13,8 @@ Many of these files came from other apps.  They have the format:
 * Start Page
 * End Page
 
+In most of these, the first line lists the column values used in the file.  You should skip that line with the header offset.
+
 The Book PDF Name is not needed by ForScore.  However, in indexes created, I attempt to use the iGigBook pdf link name.  This makes the correlation a little clearer for those coming over from iGigBook.
 
 ### Books vs Index ###
@@ -20,9 +22,10 @@ Currently All Indexes are for **C** books only.
 
 * 557 Standards	- 556Standards.csv
 * Colorado Cookbook	- Colorado.csv
-* Digital Standards Songbook - DigitalStandardsSongbookC.csv
+* Digital Standards Songbook (Sher) - DigitalStandardsSongbookC.csv
 * Firehouse Jazz Band  - FirehouseJazzBand.csv
 * Jazz LTD - JazzLTD.csv
+* The Latin Real Book (Sher) - LatinRealBkC.csv
 * New Digital Real Book (Sher) - nrealbk1d.csv
 * Real Book 1 v6 (Hal Leonard) - realbk1h.csv
 * Real Book 2 v6 (Hal Leonard) - realbk2h.csv
@@ -30,6 +33,10 @@ Currently All Indexes are for **C** books only.
 * Old Real Book 1 - realbk1.csv
 * Old Real Book 2 - realbk2.csv
 * Old Real Book 3 - realbk3.csv
+* The Standards Real Book (Sher) - standardsrbkC.csv
+  * NOTE: This is for a scanned copy with no images
+
+
 
 ### Workflow ###
 
@@ -48,9 +55,11 @@ Now load the index
 * bookmarks
 * indexes (upper left in popup)
 * select the index file for the currently displayed book
-* First field is **Title**
-* Third field is **Start Page**
-* Forth field is **End Page**
+* Set the Fields.  In the newer indices the first line lists the field values.  Here is an example:
+  * First field is **Title**
+  * Third field is **Start Page**
+  * Forth field is **End Page**
+* Adjust the **Header offset** to account for the first comment line if present.
 * Adjust the **Page number offset** until the correct image appears for the Title listed.
 * Check a few other pages via the page arrows on the bottom of the page.  The image should match the title.
 
