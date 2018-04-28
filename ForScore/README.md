@@ -28,6 +28,7 @@ Currently All Indexes are for **C** books only.
 * The Latin Real Book (Sher) - LatinRealBkC.csv
 * The New Real Book 1 (Sher) - newrbk1C.csv
 * The New Real Book 2 (Sher) - newrbk2C.csv
+* The New Real Book 3 (Sher) - newrbk3C.csv
 * New Digital Real Book (Sher) - nrealbk1d.csv
 * Real Book 1 v6 (Hal Leonard) - realbk1h.csv
 * Real Book 2 v6 (Hal Leonard) - realbk2h.csv
