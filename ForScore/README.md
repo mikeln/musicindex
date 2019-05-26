@@ -39,6 +39,11 @@ Currently All Indexes are for **C** books only.
 * Old Real Book 3 - realbk3.csv
 * The Standards Real Book (Sher) - standardsrbkC.csv
   * NOTE: This is for a scanned copy with no images
+* A Charlie Brown Christmas - cbxmas.csv
+* Christmas Real Book - realxmasC.csv
+* 24 Gypsy Jazz Standards - djangoinjune.csv
+* Charlie Parker Omnibook (bass clef)- parkeromnibookbc.csv
+* 101 Sinatra Songs - sinatra101C.csv
 
 
 
