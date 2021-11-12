@@ -44,6 +44,7 @@ Currently All Indexes are for **C** books only.
 * 24 Gypsy Jazz Standards - djangoinjune.csv
 * Charlie Parker Omnibook (bass clef)- parkeromnibookbc.csv
 * 101 Sinatra Songs - sinatra101C.csv
+* Vocal Real Book - VocalRealBook.csv
 
 
 
