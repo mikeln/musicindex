@@ -1,11 +1,11 @@
 # musicindex
 Music book index files
 ### Purpose
-This repository contains indices for various real books and other items.   The files specifcally target the ForScore App.
+This repository contains indices for various real books and other items.   The files specifcally target the [ForScore App]( https://apps.apple.com/us/app/forscore/id363738376).
 ### Notes
 There is a demonstration video online on how to associate an index file with a particular book in ForScore.
 ### Steps
-* Copy the release zip file (or separately copy the individual files if you do not wall all the indices).
+* Copy the release zip file (or separately copy the individual files if you do not want all the indices).
 * Put the .csv files into your ForScore App
    * Unfortunately, the current app (2/20/2018) will not allow you to pull down a .csv file from you cloud drive.
    * You will have to either email yourself the .csv files as attachments, then open the email/attachements on your device.  You should be given the option to "open with ForScore".  Doing that will put a copy of the index .csv in the "indexes" area (under bookmarks).
@@ -23,7 +23,7 @@ There is a demonstration video online on how to associate an index file with a p
         * Value 3: Select: **Start Page**
         * Value 4: Select: **End Page**
     * Now you will probably have to adjust the **Page number offset**
-        * Usually the offset will need subtract from the index page number. (e.g. Real Book 1 V6 starts on page 10, so you have to -9 the offset).  
+        * Usually the offset will need to be subtracted from the index page number. (e.g. Real Book 1 V6 starts on page 10, so you have to set -9 for the offset).  
         * The image will display the current page for the settings.  When you have the offset correct, the title will show the correct page.  You can check more by moving through the records with the arrows at the very bottom of the screen.
     * When everything is set up, select **Save** (upper right).
   
@@ -35,7 +35,7 @@ Note: The way this appears to work (2/20/2018), is the app uses the index.csv fi
 * Some index files out "in the wild" only have the start page listed for each title.  These will create "partial" (but usable) bookmarks. You can tell by the dotted circle next to each bookmark vs. a solid filled in circle.  The issue with partial bookmarks, you can search them by name, but you cannot add them to **setlists**. 
 * To use **bookmarks** in a **setlist**, you have to have the **title**, **start page**, and **end page**.  That seems to be the minimum required for a usable bookmark.  You can tell if your bookmark is correct several ways:
     * If you select a song via a bookmark, the Title Bar on the app should show: **Your Song Title, p. 1 of n (Bookmark)**.  It should not show: **PDF Filename, p. x of yyy***
-    * If you select the circled arrow next to the bookmark, you are presented with the configuration values for that bookmark.  If *To* is blank or has a red dot, the bookmard is not complete.
+    * If you select the circled arrow next to the bookmark, you are presented with the configuration values for that bookmark.  If *To* is blank or has a red dot, the bookmark is not complete.
 
 ### Contributions ###
 Pull Requests may be eventually welcomed.
