@@ -3,7 +3,7 @@ Music book index files
 ### Purpose
 This repository contains indices for various real books and other items.   The files specifcally target the [ForScore App]( https://apps.apple.com/us/app/forscore/id363738376).
 ### Notes
-There is a demonstration video online on how to associate an index file with a particular book in ForScore.
+There are many ademonstration videos online on how to associate an index file with a particular book in ForScore.
 ### Steps
 * Copy the release zip file (or separately copy the individual files if you do not want all the indices).
 * Put the .csv files into your ForScore App
