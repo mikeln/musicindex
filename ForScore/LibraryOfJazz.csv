@@ -19,10 +19,10 @@ Bloomdido, loj, 10,10
 Bernie's Tune, loj, 11,11
 Bockhanal, loj, 11,12
 Bottoms Up, loj, 12,12
-Boblicity, loj 13,13
+Boblicity, loj, 13,13
 Bouncing With Bud, loj, 13,14
 Bud's Blues, loj, 14,15
-Brown Gold, loj 15,15
+Brown Gold, loj, 15,15
 Budo, loj, 15,16
 Bud's Bubble, loj, 16,16
 Bunny, loj, 17,17
@@ -34,8 +34,8 @@ Confirmation, loj, 20,20
 Back Home blues, loj, 21,21
 Bluebird, loj, 21,21
 Blues For Alice, loj, 21,22
-Bounce, loj 22,22
-Bulldog Blues, loj 23,23
+Bounce, loj, 22,22
+Bulldog Blues, loj, 23,23
 Cairo, loj, 23,24
 Cone Pone, loj, 24,24
 The Champ, loj, 25,25
@@ -97,7 +97,7 @@ Inside Out, loj, 61,61
 Jumping With Symphony Sid, loj, 61,62
 Just A Few, loj, 62,62
 H and J, loj, 63,63
-It's Sand Man, loj 63,64
+It's Sand Man, loj, 63,64
 Jasmin, loj, 64,64
 Jazzbo's Jaunt, loj, 65,65
 Je Ne Sais Pas, loj, 65,66
@@ -124,7 +124,7 @@ Motion, loj, 79,79
 Nick's Knacks, loj, 79,80
 Night Life, loj, 80,80
 KC Blues, loj, 81,81
-Mellophone Mambo, loj 81,81
+Mellophone Mambo, loj, 81,81
 Minor Blues, loj, 81,82
 Opus De Funk, loj, 82,82
 The Preacher, loj, 82,82
@@ -132,7 +132,7 @@ Simbah, loj, 83,83
 Mohawk, loj, 83,84
 Move, loj, 84,84
 Morpo, loj, 85,85
-Motel, loj 85,86
+Motel, loj, 85,86
 My Little Suede Shoes, loj, 86,86
 Prince Albert, loj, 87,87
 Quicksilver, loj, 87,88
@@ -231,11 +231,11 @@ Bimini, loj, 150,150
 Beach-Wise, loj, 151,151
 Before and After, loj, 151,152
 Bisquit Mix, loj, 152,152
-Blue Maze, loj 153,153
+Blue Maze, loj, 153,153
 Blues In A Cold Water Flag, loj, 153,153
 Blues The Most, loj, 153,154
 Boardwalk, loj, 154,154
-Bloues In The Closet, loj 155,155
+Bloues In The Closet, loj, 155,155
 Boomerang, loj, 156,156
 Bop City, loj, 157,157
 Bright Blues, loj, 157,158
@@ -245,7 +245,7 @@ Caribbean Cutie, loj, 159,159
 Chuckles, loj, 159.160
 Cruising, loj, 160,160
 Cool Cat On A Hot Tin Roof, loj, 161,162
-Creepin In, loj 162,162
+Creepin In, loj, 162,162
 Cooling It, loj, 163,163
 Crazeology, loj, 163,164
 Criss Cross, loj, 164,164
@@ -293,7 +293,7 @@ Misterioso, loj, 189,189
 Miss Jackie's Delight, loj, 189,190
 Monti Celli, loj, 190,190
 No. 251, loj, 191,191
-Oblivion, loj 191,192
+Oblivion, loj, 191,192
 Off Minor, loj, 192,192
 Not Really The Blues, loj, 193,193
 Off To The Races, loj, 193,194
@@ -324,5 +324,5 @@ The Fat Man, loj, 209,210
 Tribute To Brownie, loj, 210,210
 Tune Up, loj, 211,211
 Walkin', loj, 211,211
-Pent-up House, loj 212,212
+Pent-up House, loj, 212,212
 The Duke, loj, 212,212
