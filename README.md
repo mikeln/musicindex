@@ -1,15 +1,15 @@
 # musicindex
 Music book index files
 ### Purpose
-This repository contains indices for various real books and other items.   The files specifcally target the [ForScore App]( https://apps.apple.com/us/app/forscore/id363738376).
+This repository contains indices for various real books and other items.   The files specifically target the [ForScore App]( https://apps.apple.com/us/app/forscore/id363738376).
 ### Notes
-There are many ademonstration videos online on how to associate an index file with a particular book in ForScore.
+There are many demonstration videos online on how to associate an index file with a particular book in ForScore.
 ### Steps
 * Copy the release zip file (or separately copy the individual files if you do not want all the indices).
 * Put the .csv files into your ForScore App
    * Unfortunately, the current app (2/20/2018) will not allow you to pull down a .csv file from you cloud drive.
    * You will have to either email yourself the .csv files as attachments, then open the email/attachements on your device.  You should be given the option to "open with ForScore".  Doing that will put a copy of the index .csv in the "indexes" area (under bookmarks).
-   * You could also webbrowse to a location where the .csv is publically available.  Then same steps as above.
+   * You could also webbrowse to a location where the .csv is publicly available.  Then same steps as above.
 * In ForScore, open the book that the index will be associated with.
 * Then select **bookmarks**, and **indexes** (top left on the drop down title bar).
 * Select the index for the book.
