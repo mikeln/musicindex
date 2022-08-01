@@ -75,7 +75,7 @@ Now load the index
 
 ### Notes ###
 
-* The commonly availble pdf for **557 Standards** is missing 10+ pages from the end of the book.  The index have the songs marked as "missing" in the title.
+* The commonly available pdf for **557 Standards** is missing 10+ pages from the end of the book.  The index have the songs marked as "missing" in the title.
 
 
 
