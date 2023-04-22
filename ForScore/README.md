@@ -21,6 +21,7 @@ The Book PDF Name is not needed by ForScore.  However, in indexes created, I att
 Currently All Indexes are for **C** books only.
 
 * 557 Standards	- 557Standards.csv
+* new bob book - free downloadable PDF from https://www.jstreetjazz.com/FakeBooks/The_New_Bob_Book.pdf (and possibly other locations) built by Bob Roetker. Visit him at https://bobroetkerjazzguitar.yolasite.com.
 * Colorado Cookbook	- Colorado.csv
 * Digital Standards Songbook (Sher) - DigitalStandardsSongbookC.csv
 * Firehouse Jazz Band  - FirehouseJazzBand.csv
