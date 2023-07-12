@@ -1,13 +1,17 @@
-## Indexes For ForScore ##
-This page contains indexes specifically for the App **ForScore**
+# Indexes For ForScore
 
-### Format ###
+This page contains indexes specifically for the [ForScore App]( https://apps.apple.com/us/app/forscore/id363738376).
+
+## Format
+
 The field locations don't matter as long as they are consistent within a file.   The minimum information needed is:
+
 * Title
 * Start Page
 * End Page
 
 Many of these files came from other apps.  They have the format:
+
 * Title
 * Book PDF Name
 * Start Page
@@ -17,12 +21,13 @@ In most of these, the first line lists the column values used in the file.  You 
 
 The Book PDF Name is not needed by ForScore.  However, in indexes created, I attempt to use the iGigBook pdf link name.  This makes the correlation a little clearer for those coming over from iGigBook.
 
-### Books vs Index ###
+## Books vs Index
+
 Currently All Indexes are for **C** books only.
 
-* 557 Standards	- 557Standards.csv
-* new bob book - free downloadable PDF from https://www.jstreetjazz.com/FakeBooks/The_New_Bob_Book.pdf (and possibly other locations) built by Bob Roetker. Visit him at https://bobroetkerjazzguitar.yolasite.com.
-* Colorado Cookbook	- Colorado.csv
+* 557 Standards - 557Standards.csv
+* new bob book - free downloadable PDF from <https://www.jstreetjazz.com/FakeBooks/The_New_Bob_Book.pdf> (and possibly other locations) built by Bob Roetker. Visit him at <https://bobroetkerjazzguitar.yolasite.com>.
+* Colorado Cookbook - Colorado.csv
 * Digital Standards Songbook (Sher) - DigitalStandardsSongbookC.csv
 * Firehouse Jazz Band  - FirehouseJazzBand.csv
 * Jazz LTD - JazzLTD.csv
@@ -34,7 +39,7 @@ Currently All Indexes are for **C** books only.
 * Real Book 1 v6 (Hal Leonard) - realbk1h.csv
 * Real Book 2 v6 (Hal Leonard) - realbk2h.csv
 * Real Book 3 v6 (Hal Leonard) - realbk3h.csv
-* Real Book 4 (scanned) - realbk4h.csv (page offset has to be +300 due to pdf wierdness)
+* Real Book 4 (scanned) - realbk4h.csv (page offset has to be +300 due to pdf weirdness)
 * Old Real Book 1 - realbk1.csv
 * Old Real Book 2 - realbk2.csv
 * Old Real Book 3 - realbk3.csv
@@ -47,13 +52,12 @@ Currently All Indexes are for **C** books only.
 * 101 Sinatra Songs - sinatra101C.csv
 * Vocal Real Book - VocalRealBook.csv
 
-
-
-### Workflow ###
+## Workflow
 
 You can load these indexes directly from here into your ForScore app by navigating with a web browser, on your device, to this location.  Then select the index you want.  When it opens, then select the **raw** button.  At this point your device should (iPad at least) offer to "open in ForScore".  Selecting that will load it into your ForScore App, and open the App.
 
-If you are updating the index, you should delete all the previous bookmarks for a given book first.
+If you are updating the index, you should delete all the previous bookmarks for a given book first:
+
 * Open the Book you want to Index
 * bookmarks
 * edit
@@ -62,7 +66,8 @@ If you are updating the index, you should delete all the previous bookmarks for 
 * Confirm on the popup
 * done
 
-Now load the index
+Now load the index:
+
 * bookmarks
 * indexes (upper left in popup)
 * select the index file for the currently displayed book
@@ -74,9 +79,6 @@ Now load the index
 * Adjust the **Page number offset** until the correct image appears for the Title listed.
 * Check a few other pages via the page arrows on the bottom of the page.  The image should match the title.
 
-### Notes ###
+## Notes
 
 * The commonly available pdf for **557 Standards** is missing 10+ pages from the end of the book.  The index have the songs marked as "missing" in the title.
-
-
-
