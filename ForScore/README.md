@@ -34,6 +34,7 @@ Currently All Indexes are for **C** books only.
 * Real Book 1 v6 (Hal Leonard) - realbk1h.csv
 * Real Book 2 v6 (Hal Leonard) - realbk2h.csv
 * Real Book 3 v6 (Hal Leonard) - realbk3h.csv
+* Real Book 4 v6 (Hal Leonard) - RealBook4.csv
 * Real Book 4 (scanned) - realbk4h.csv (page offset has to be +300 due to pdf wierdness)
 * Old Real Book 1 - realbk1.csv
 * Old Real Book 2 - realbk2.csv
