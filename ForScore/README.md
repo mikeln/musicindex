@@ -26,6 +26,7 @@ Currently All Indexes are for **C** books only.
 * Digital Standards Songbook (Sher) - DigitalStandardsSongbookC.csv
 * Firehouse Jazz Band  - FirehouseJazzBand.csv
 * Jazz LTD - JazzLTD.csv
+* The Latin Real Book (Sher) - LatinRealBook.csv (better)
 * The Latin Real Book (Sher) - LatinRealBkC.csv
 * The New Real Book 1 (Sher) - newrbk1C.csv
 * The New Real Book 2 (Sher) - newrbk2C.csv
